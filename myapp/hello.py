@@ -1,6 +1,6 @@
 import fire
 
-def hello(name="Worlddd"):
+def hello(name="Wornnlddd"):
   return "Hello %s!" % name
 
 if __name__ == '__main__':
